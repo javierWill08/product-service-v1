@@ -11,7 +11,7 @@ spec:
   source: 
     path: product-service-v1
     repoURL: "https://github.com/javierWill08/product-service-v1.git"
-    targetRevision: main
+    targetRevision: trunk
   syncPolicy:
     syncOptions:
       - CreateNamespace=true
